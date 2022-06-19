@@ -1,7 +1,9 @@
 # SQL
+Criando e efetuando consultas no banco de dados através do Microsoft SQL Server Management Studio (IDE)
+
+
+
 ## Criacao e comandos básicos
-
-
 
 Criando banco de dados através do Microsoft SQL Server Management Studio (IDE):
 
