@@ -116,4 +116,4 @@ Pesquisando nome e número dos produtos com ProductID entre 1 e 4 em ordem cresc
 ![image](https://user-images.githubusercontent.com/78691172/174494586-6f33fbc2-e127-4ad9-9d2f-0d95f24af294.png)
 
 
-<https://www.youtube.com/watch?v=rX2I7OjLqWE&t=221s parei nos 47 minutos de aula>
+<parei nos 47 minutos de aula>
