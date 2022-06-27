@@ -90,3 +90,20 @@ ORDER BY listprice desc
 SELECT TOP 4 name, productnumber
 FROM Production.Product
 ORDER BY ProductID asc
+
+
+#Pesquisa de todos os produtos com valor entre 1.000 e 1.500.
+SELECT *
+FROM Production.Product
+WHERE ListPrice between 1000 and 1500;
+
+#Pesquisa de todos os produtos que não estão no intervalo de valor entre 1.000 e 1.500.
+SELECT *
+FROM Production.Product
+WHERE ListPrice NOT between 1000 AND 1500;
+
+#Identificando todos os funcionários contratados entre 2000 e 2010. 
+SELECT *
+FROM HumanResources.Employee
+WHERE HireDate between '2009/01/01' and '2010/12/31'
+ORDER BY HireDate #colocando em ordem
