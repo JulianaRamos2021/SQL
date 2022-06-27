@@ -53,7 +53,7 @@ Agora confirmo se o procedimento deu certo buscando dados em uma tabela aleatór
 
   
 # CONSULTA NO BANCO DE DADOS
-### SELECT, WHERE, COUNT, DISTINCT, TOP, ORDER BY
+### SELECT, WHERE, COUNT, DISTINCT, TOP, ORDER BY, BETWEEN
 
 Retornando todos os dados da tabela Person.Person (comando SELECT * FROM person.Person;)
   
@@ -114,4 +114,13 @@ Pesquisar os 10 produtos mais caros listando valores do maior para o menor.
 
 Pesquisando nome e número dos produtos com ProductID entre 1 e 4 em ordem crescente.
 ![image](https://user-images.githubusercontent.com/78691172/174494586-6f33fbc2-e127-4ad9-9d2f-0d95f24af294.png)
+
+Pesquisa de todos os produtos com valor entre 1.000 e 1.500.
+![image](https://user-images.githubusercontent.com/78691172/175919791-6d32fb3c-3343-42f7-99e1-0f0c833c5442.png)
+
+Pesquisa de todos os produtos que não estão no intervalo de valor entre 1.000 e 1.500.
+![image](https://user-images.githubusercontent.com/78691172/175920084-3613b8c0-63f3-4c99-92e5-48703869c036.png)
+
+Identificando todos os funcionários contratados entre 2000 e 2010. 
+![image](https://user-images.githubusercontent.com/78691172/175920257-7aedfbe4-46de-437b-86d4-2f4aa5561617.png)
 
