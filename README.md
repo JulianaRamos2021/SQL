@@ -124,3 +124,9 @@ Pesquisa de todos os produtos que não estão no intervalo de valor entre 1.000 
 Identificando todos os funcionários contratados entre 2000 e 2010. 
 ![image](https://user-images.githubusercontent.com/78691172/175920257-7aedfbe4-46de-437b-86d4-2f4aa5561617.png)
 
+Pesquisando valores específicos em uma tabela
+![image](https://user-images.githubusercontent.com/78691172/187654743-fec2bf2b-26dc-4487-a526-fee0182261b5.png)
+
+Pesquisando palavra por descrição parcial em uma tabela
+![image](https://user-images.githubusercontent.com/78691172/187654886-83edba34-6756-47da-b909-acb74f177034.png)
+
