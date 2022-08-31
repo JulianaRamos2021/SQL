@@ -107,3 +107,13 @@ SELECT *
 FROM HumanResources.Employee
 WHERE HireDate between '2009/01/01' and '2010/12/31'
 ORDER BY HireDate #colocando em ordem
+
+#Pesquisando valores específicos em uma tabela
+SELECT * 
+FROM Person.Person
+WHERE BusinessEntityID IN (8,13,21)
+
+# Pesquisando palavra por descrição parcial em uma tabela
+SELECT *
+FROM Person.Person
+WHERE FirstName like 'Di%'
