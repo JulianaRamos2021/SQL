@@ -102,7 +102,7 @@ SELECT *
 FROM Production.Product
 WHERE ListPrice NOT between 1000 AND 1500;
 
-#Identificando todos os funcionários contratados entre 2000 e 2010. 
+# Identificando todos os funcionários contratados entre 2000 e 2010. 
 SELECT *
 FROM HumanResources.Employee
 WHERE HireDate between '2009/01/01' and '2010/12/31'
@@ -117,3 +117,14 @@ WHERE BusinessEntityID IN (8,13,21)
 SELECT *
 FROM Person.Person
 WHERE FirstName like 'Di%'
+
+# Pesquisando palavra por descrição parcial em uma tabela (neste caso o _ substitui apenas um caractere).
+SELECT *
+FROM Person.Person
+WHERE FirstName like 'te_'
+
+# Pesquisando produtos com valor superior a 3.500.
+SELECT *
+FROM production.Product
+WHERE ListPrice > 3500
+
