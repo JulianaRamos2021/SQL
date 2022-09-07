@@ -137,3 +137,8 @@ Pesquisando produtos com valor superior a 3.500.
 ![image](https://user-images.githubusercontent.com/78691172/188888268-5b843447-61d6-45be-9b25-3e07ace97a23.png)
 
 
+# FUNÇÃO DE AGREGAÇÃO
+### MAX, MIN, SUM, AVG
+
+Somando valor total de vendas
+![image](https://user-images.githubusercontent.com/78691172/188895498-813a60ec-397d-4a31-bfcd-ba7bb7f0bde4.png)
