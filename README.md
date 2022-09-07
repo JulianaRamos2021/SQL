@@ -130,3 +130,5 @@ Pesquisando valores específicos em uma tabela
 Pesquisando palavra por descrição parcial em uma tabela
 ![image](https://user-images.githubusercontent.com/78691172/187654886-83edba34-6756-47da-b909-acb74f177034.png)
 
+Pesquisando palavra por descrição parcial em uma tabela (neste caso o _ substitui apenas um caractere).
+![image](https://user-images.githubusercontent.com/78691172/188886295-8ed27efe-e502-46af-b542-60116aad24f5.png)
