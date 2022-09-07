@@ -137,6 +137,9 @@ Pesquisando produtos com valor superior a 3.500.
 ![image](https://user-images.githubusercontent.com/78691172/188888268-5b843447-61d6-45be-9b25-3e07ace97a23.png)
 
 
+#
+#
+#
 # FUNÇÃO
 ### MAX, MIN, SUM, AVG
 
@@ -151,3 +154,11 @@ Identificando valor máximo de vendas e definindo o nome da coluna como Vlr.Máx
 
 Identificando valor médio de vendas e definindo o nome da coluna como Média.
 ![image](https://user-images.githubusercontent.com/78691172/188898811-3d6ffa99-230d-4b50-9ff1-69cdc5f834f4.png)
+
+#
+#
+#
+# GROUP BY
+Agrupando produtos (ID) pela soma dos preços unicos
+![image](https://user-images.githubusercontent.com/78691172/188905766-28299cd8-0917-47cc-809f-0071e5a166b3.png)
+
