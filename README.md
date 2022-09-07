@@ -162,3 +162,7 @@ Identificando valor médio de vendas e definindo o nome da coluna como Média.
 Agrupando produtos (ID) pela soma dos preços unicos
 ![image](https://user-images.githubusercontent.com/78691172/188905766-28299cd8-0917-47cc-809f-0071e5a166b3.png)
 
+Visualizando apenas o ID 9
+![image](https://user-images.githubusercontent.com/78691172/188934292-8f9ec838-c299-4d34-a5e6-64d6a5edc2cb.png)
+
+
