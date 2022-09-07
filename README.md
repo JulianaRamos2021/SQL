@@ -137,8 +137,17 @@ Pesquisando produtos com valor superior a 3.500.
 ![image](https://user-images.githubusercontent.com/78691172/188888268-5b843447-61d6-45be-9b25-3e07ace97a23.png)
 
 
-# FUNÇÃO DE AGREGAÇÃO
+# FUNÇÃO
 ### MAX, MIN, SUM, AVG
 
-Somando valor total de vendas
-![image](https://user-images.githubusercontent.com/78691172/188895498-813a60ec-397d-4a31-bfcd-ba7bb7f0bde4.png)
+Somando valor total de vendas e definindo o nome da coluna como Soma.
+![image](https://user-images.githubusercontent.com/78691172/188896800-893686fa-fc0c-485e-b260-7b1dd2326520.png)
+
+Verificando valor mínimo de vendas e definindo o nome da coluna como Vlr.Mínimo.
+![image](https://user-images.githubusercontent.com/78691172/188897915-83ac5b92-cda1-437d-8b4a-d1cd70f2db33.png)
+
+Identificando valor máximo de vendas e definindo o nome da coluna como Vlr.Máximo.
+![image](https://user-images.githubusercontent.com/78691172/188898526-9d515549-de82-4f41-8ca4-9ec6305faf30.png)
+
+Identificando valor médio de vendas e definindo o nome da coluna como Média.
+![image](https://user-images.githubusercontent.com/78691172/188898811-3d6ffa99-230d-4b50-9ff1-69cdc5f834f4.png)
