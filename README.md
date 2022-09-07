@@ -132,3 +132,8 @@ Pesquisando palavra por descrição parcial em uma tabela
 
 Pesquisando palavra por descrição parcial em uma tabela (neste caso o _ substitui apenas um caractere).
 ![image](https://user-images.githubusercontent.com/78691172/188886295-8ed27efe-e502-46af-b542-60116aad24f5.png)
+
+Pesquisando produtos com valor superior a 3.500.
+![image](https://user-images.githubusercontent.com/78691172/188888268-5b843447-61d6-45be-9b25-3e07ace97a23.png)
+
+
